@@ -1,3 +1,5 @@
+<img align="center" src="https://i.imgur.com/nNYUYV3.png" alt='mowgli cover art'></a>
+
 My passion is internet communities. My passion has fueled me to embark on a Data Science journey where I've mastered various natural language processing techniques to investigate the nuts and bolts of several communities. My objective is to generate solutions to complex problems using data and my stock pile of analytical tools. 
 
 • I aim to provoke interest in investigating online communities one line of code at a time. 
