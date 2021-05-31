@@ -6,5 +6,5 @@ I'm in love with R and Python 🤟.
 
 **Check out my recent R package to access Twitch Chat from clips!**
 
-<a href="https://github.com/mowgl-i/Rchamp"> <img src="https://i.imgur.com/ib1tQWi.png" alt='Hexagon-style R package image with twitch emoticons beneath the package title: R Champ' width="300" height="300"></a>
+<a href="https://github.com/mowgl-i/Rchamp"> <img align="right" src="https://i.imgur.com/ib1tQWi.png" alt='Hexagon-style R package image with twitch emoticons beneath the package title: R Champ' width="300" height="300"></a>
 
