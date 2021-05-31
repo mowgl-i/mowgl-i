@@ -1,5 +1,10 @@
-<!--- ![Rchamp](https://i.imgur.com/ib1tQWi.png){height="50%" width="50%"} --->
+My passion is internet communities. My passion has fueled me to embark on a Data Science journey where I've mastered various natural language processing techniques to investigate the nuts and bolts of several communities. My objective is to generate solutions to complex problems using data and my stock pile of analytical tools. 
 
-<a href="https://github.com/mowgl-i/Rchamp"> <img src="https://i.imgur.com/ib1tQWi.png" alt='Hexagon-style R package image with twitch emoticons beneath the package title: R Champ' width="300" height="300"></a> [![Top_Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mowgl-i&theme=radical&layout=compact")]
+• I aim to provoke interest in investigating online communities one line of code at a time. 
 
+I'm in love with R and Python 🤟. 
+
+**Check out my recent R package to access Twitch Chat from clips!**
+
+<a href="https://github.com/mowgl-i/Rchamp"> <img src="https://i.imgur.com/ib1tQWi.png" alt='Hexagon-style R package image with twitch emoticons beneath the package title: R Champ' width="300" height="300"></a>
 
