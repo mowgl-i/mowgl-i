@@ -4,9 +4,9 @@ My passion is internet communities. My passion has fueled me to embark on a Data
 
 • I aim to provoke interest in investigating online communities one line of code at a time. 
 
-I'm in love with R and Python 🤟. 
+I love with R and Python equally 🤟. 
 
 **Check out my recent R package to access Twitch Chat from clips!** <a href="https://github.com/mowgl-i/Rchamp"> <img align="right" src="https://i.imgur.com/ib1tQWi.png" alt='Hexagon-style R package image with twitch emoticons beneath the package title: R Champ' width="200" height="200"></a>
 
-
+![codewars](https://www.codewars.com/users/mowgl-i/badges/micro)
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="100%">
